@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section includes video of the classroom sessions. Poolside and underwater
+  video clips of specific skills can be found in the Video section.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -7,7 +9,7 @@ title: Lecture Notes
 uid: e4b32797-c567-364b-f241-7d84b59e16ae
 ---
 
-This section includes video of the classroom sessions. Poolside and underwater video clips of specific skills can be found in the [Video]({{< baseurl >}}/pages/video) section.
+This section includes video of the classroom sessions. Poolside and underwater video clips of specific skills can be found in the {{% resource_link 3c4cc431-06c2-388e-1f2a-14a4593af576 "Video" %}} section.
 
 {{< tableopen >}}
 {{< theadopen >}}
