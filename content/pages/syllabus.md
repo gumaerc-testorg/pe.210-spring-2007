@@ -1,31 +1,29 @@
 ---
 content_type: page
+description: This syllabus section provides an overview of the course and information
+  on the instructor.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
 uid: f0ce828a-e43b-9bc4-424a-63147bf1acad
 ---
+## Course Meeting Times
 
-Course Meeting Times
---------------------
+Lectures: 2 sessions / week for 6 weeks, 2 hours / session (test 2/23/22 4:17pm)
 
-Lectures: 2 sessions / week for 6 weeks, 2 hours / session
-
-SCUBA: Self Contained Underwater Breathing Apparatus
-----------------------------------------------------
+## SCUBA: Self Contained Underwater Breathing Apparatus
 
 This course will thoroughly educate the successful student with the knowledge and skills necessary to be a certified beginning SCUBA diver. The prerequisite for the course is passing the MIT SCUBA swim test and demonstrating a "comfort level" in the water. At the end of the class, students will attempt to pass the certification exam to become certified divers.
 
 The class is taught in two parts each week: a classroom session and a pool session. The classroom sessions along with the reading material will provide the student with the knowledge necessary to pass the written exam. At the pool, the water skills are taught in progressions that build on the previous skills, making the difficult skills seem easy.
 
-There are six to seven two hour sessions in the classroom and the same number in the pool, depending on the ability of the class. The weekly schedule can be seen in the [calendar]({{< baseurl >}}/pages/calendar) section, and more in-depth lecture topics can be seen in the [lecture notes]({{< baseurl >}}/pages/lecture-notes) section.
+There are six to seven two hour sessions in the classroom and the same number in the pool, depending on the ability of the class. The weekly schedule can be seen in the {{% resource_link 7afda057-7959-674d-3716-91d14e50326a "calendar" %}} section, and more in-depth lecture topics can be seen in the {{% resource_link e4b32797-c567-364b-f241-7d84b59e16ae "lecture notes" %}} section.
 
 At the end of the class, the participants take a written exam, and participate in dives required for certification. The certification dives occur on the weekend following the conclusion of the course and take place on the north shore of Boston, typically in Nahant or Rockport, MA. These are full day events. One snorkel dive and four SCUBA dives must be completed. Each dive contains progressing skills.
 
 The course fee of $300 covers all rental equipment, class and course materials, air fills, C-card and certification dives. Those preferring to use their own equipment are encouraged to do so, but no equipment beyond a bathing suit is required.
 
-About the Instructor
---------------------
+## About the Instructor
 
 Halston Taylor's cross country coaching career began at MIT in 1982 and since that time, the squad has become one of the most successful programs at the Institute. Coach Taylor has led Tech through 10 undefeated seasons and three others marred by one loss. The Engineers are also a perfect seven-for-seven at the NEWMAC Cross Country Championships under his watch.
 
