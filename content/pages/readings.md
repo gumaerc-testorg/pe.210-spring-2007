@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the list of recommended readings for the course
+  and the schedule of readings by session.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
