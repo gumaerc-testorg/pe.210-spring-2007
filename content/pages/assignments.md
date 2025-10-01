@@ -15,4 +15,4 @@ In order to complete the class and receive certification in SCUBA, the following
 *   Successful completion of the written exam given in Week #6.
 *   Successful completion of the open water certification dives: one snorkel dive and four SCUBA dives, given in the last week of class.
 
-For more information about this and other SCUBA certifications, please see: [NAUI Recreational Courses](https://members.naui.org/recreational_divers.aspx).
+For more information about this and other SCUBA certifications, please see: {{% resource_link "a2e0707f-a6ad-4b51-b55b-ed53766f75b7" "NAUI Recreational Courses" %}}.
