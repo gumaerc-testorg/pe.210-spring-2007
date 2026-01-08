@@ -26,7 +26,7 @@ VIDEOS
 Putting the gear together
 {{< tdclose >}}
 {{< tdopen >}}
-({{% resource_link "62838aeb-f3d5-4bcb-9d9a-637f72444444" "MP4 - 3.7MB" %}})
+([MP4 - 3.7MB](https://archive.org/download/MITPE.210S07/ocw-pe.210-putting_gear_together-220k.mp4))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -35,7 +35,7 @@ Putting the gear together
 Preparing and donning the weight belt
 {{< tdclose >}}
 {{< tdopen >}}
-({{% resource_link "8d6e4f52-b73b-4fd6-a0d7-1a2bf03e1d26" "MP4 - 4.3MB" %}})
+([MP4 - 4.3MB](http://www.archive.org/download/MITPE.210S07/ocw-pe.210-prep_donning_weight-belt-220k.mp4))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -44,7 +44,7 @@ Preparing and donning the weight belt
 Partner assist with tank, BC and fins
 {{< tdclose >}}
 {{< tdopen >}}
-({{% resource_link "f72067c5-cf62-4001-a776-0d7c07dbb74f" "MP4 - 2.2MB" %}})
+([MP4 - 2.2MB](http://www.archive.org/download/MITPE.210S07/ocw-pe.210-partner_assist-220k.mp4))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -53,7 +53,7 @@ Partner assist with tank, BC and fins
 Entry: Giant stride
 {{< tdclose >}}
 {{< tdopen >}}
-({{% resource_link "402cb72f-b5f7-4cb1-a441-5546ff701b5d" "MP4" %}})
+([MP4](http://www.archive.org/download/MITPE.210S07/ocw-pe.210-entry-giant-stride-220k.mp4))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -62,7 +62,7 @@ Entry: Giant stride
 Entry: Backward roll
 {{< tdclose >}}
 {{< tdopen >}}
-({{% resource_link "dc353a10-cbcc-45e6-b352-d0ffe84bc9a0" "MP4" %}})
+([MP4](http://www.archive.org/download/MITPE.210S07/ocw-pe.210-entry-backroll-220k.mp4))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -71,7 +71,7 @@ Entry: Backward roll
 Donning the BC in the water
 {{< tdclose >}}
 {{< tdopen >}}
-({{% resource_link "5cc4a2ab-6e0c-4de7-a66d-fcd0b3de70dd" "MP4 - 1.4MB" %}})
+([MP4 - 1.4MB](http://www.archive.org/download/MITPE.210S07/ocw-pe.210-donning-bc-in-water-220k.mp4))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -80,7 +80,7 @@ Donning the BC in the water
 Overhead don of the BC in the water, demonstrating control at the end
 {{< tdclose >}}
 {{< tdopen >}}
-({{% resource_link "284753f1-d1ee-4f8f-9f24-23e8be89d871" "MP4 - 5MB" %}})
+([MP4 - 5MB](http://www.archive.org/download/MITPE.210S07/overhead_don_of_the_bc_in_the_water-220k.mp4))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -89,7 +89,7 @@ Overhead don of the BC in the water, demonstrating control at the end
 Donning the BC in the water, view from below
 {{< tdclose >}}
 {{< tdopen >}}
-({{% resource_link "6ff10285-781c-4899-9516-46b510136552" "MP4 - 3MB" %}})
+([MP4 - 3MB](http://www.archive.org/download/MITPE.210S07/ocw-pe.210-donning-bc-in-water-view-from-water-220k.mp4))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -98,7 +98,7 @@ Donning the BC in the water, view from below
 Donning the BC in the water, third view
 {{< tdclose >}}
 {{< tdopen >}}
-({{% resource_link "8e37fdb9-5a23-4c1e-a62c-b61766707fac" "MP4 - 4.5MB" %}})
+([MP4 - 4.5MB](http://www.archive.org/download/MITPE.210S07/ocw-pe.210-donning-bc-in-water-3rd-view-220k.mp4))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -107,7 +107,7 @@ Donning the BC in the water, third view
 Surface dive, feet first
 {{< tdclose >}}
 {{< tdopen >}}
-({{% resource_link "7d8bda5e-8cfb-44da-8d87-007e3276fc5d" "MP4 - 2.4MB" %}})
+([MP4 - 2.4MB](https://archive.org/download/MITPE.210S07/ocw-pe.210-surface_dive_feet-first-220k.mp4))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -116,7 +116,7 @@ Surface dive, feet first
 Surface dive, head first
 {{< tdclose >}}
 {{< tdopen >}}
-({{% resource_link "520e5298-36c8-4cae-8836-a2ac2a54645f" "MP4" %}})
+([MP4](http://www.archive.org/download/MITPE.210S07/ocw-pe.210-surface_dive-head_first-220k.mp4))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -125,7 +125,7 @@ Surface dive, head first
 Kicking
 {{< tdclose >}}
 {{< tdopen >}}
-({{% resource_link "e4ac4b6f-6296-4581-9d1e-9454b722ee93" "MP4 - 2.1MB" %}})
+([MP4 - 2.1MB](http://www.archive.org/download/MITPE.210S07/ocw-pe.210-kicking-220k.mp4))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -134,7 +134,7 @@ Kicking
 Dolphin kick
 {{< tdclose >}}
 {{< tdopen >}}
-({{% resource_link "2ad68d09-6b7b-4527-a838-e873fc3bc422" "MP4" %}})
+([MP4](http://www.archive.org/download/MITPE.210S07/ocw-pe.210-dolphin-kick-220k.mp4))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -143,7 +143,7 @@ Dolphin kick
 1 fin kick
 {{< tdclose >}}
 {{< tdopen >}}
-({{% resource_link "238ab2d8-8288-4f00-8508-6e272772e42e" "MP4 - 1.2MB" %}})
+([MP4 - 1.2MB](https://archive.org/download/MITPE.210S07/ocw-pe.210-one-fin-kick-220k.mp4))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -152,7 +152,7 @@ Dolphin kick
 Mask removal and clearing
 {{< tdclose >}}
 {{< tdopen >}}
-({{% resource_link "89d449c2-aac0-40f2-b8f0-b5fbd6ab3b6e" "MP4 - 1.2MB" %}})
+([MP4 - 1.2MB](http://www.archive.org/download/MITPE.210S07/ocw-pe.210-mask-removal-220k.mp4))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -161,7 +161,7 @@ Mask removal and clearing
 Regulator recovery
 {{< tdclose >}}
 {{< tdopen >}}
-({{% resource_link "16d53d6c-e769-42f1-b33b-4fb8ecf4b282" "MP4 - 1.2MB" %}})
+([MP4 - 1.2MB](http://www.archive.org/download/MITPE.210S07/ocw-pe.210-reg-recovery-220k.mp4))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -170,7 +170,7 @@ Regulator recovery
 Doff and don of the BC underwater
 {{< tdclose >}}
 {{< tdopen >}}
-({{% resource_link "e20dcd04-d026-4677-b969-8208bda41920" "MP4 - 2.5MB" %}})
+([MP4 - 2.5MB](http://www.archive.org/download/MITPE.210S07/ocw-pe.210-doff-don-bc-220k.mp4))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -179,7 +179,7 @@ Doff and don of the BC underwater
 Doff and don of the weight belt underwater
 {{< tdclose >}}
 {{< tdopen >}}
-({{% resource_link "c18daf72-e439-4485-8429-6bc7335308f2" "MP4" %}})
+([MP4](http://www.archive.org/download/MITPE.210S07/ocw-pe.210-don-doff-weight-belt-underwater-220k.mp4))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -188,7 +188,7 @@ Doff and don of the weight belt underwater
 Ditch and recovery of equipment
 {{< tdclose >}}
 {{< tdopen >}}
-({{% resource_link "ccfc8d62-8dd3-40c1-a02d-80cac7af7c99" "MP4 - 6MB" %}})
+([MP4 - 6MB](http://www.archive.org/download/MITPE.210S07/ocw-pe.210-ditch_recovery-equipment-220k.mp4))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -197,7 +197,7 @@ Ditch and recovery of equipment
 Simulated Emergency Swimming Ascent (SESA)
 {{< tdclose >}}
 {{< tdopen >}}
-({{% resource_link "10775ad1-a6ad-4f52-a6bc-194c37f28932" "MP4" %}})
+([MP4](http://www.archive.org/download/MITPE.210S07/ocw-pe.210-sesa-220k.mp4))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -206,7 +206,7 @@ Simulated Emergency Swimming Ascent (SESA)
 Neutral buoyancy
 {{< tdclose >}}
 {{< tdopen >}}
-({{% resource_link "f63b55a9-21db-4687-9baa-429238f6d11e" "MP4 - 2MB" %}})
+([MP4 - 2MB](http://www.archive.org/download/MITPE.210S07/ocw-pe.210-neutral-buoyancy-220k.mp4))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -215,7 +215,7 @@ Neutral buoyancy
 Rescue of an unconscious victim
 {{< tdclose >}}
 {{< tdopen >}}
-({{% resource_link "d66c5866-3b36-4661-bd99-e2a4f2e3be37" "MP4 - 3.3MB" %}})
+([MP4 - 3.3MB](http://www.archive.org/download/MITPE.210S07/ocw-pe.210-rescue-unconscious-victim-220k.mp4))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -224,7 +224,7 @@ Rescue of an unconscious victim
 Rescue breathing
 {{< tdclose >}}
 {{< tdopen >}}
-({{% resource_link "90f0f943-acc1-42fe-b969-34cca213765f" "MP4" %}})
+([MP4](http://www.archive.org/download/MITPE.210S07/ocw-pe.210-rescue-breathing-220k.mp4))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -233,7 +233,7 @@ Rescue breathing
 Shared octopus breathing and ascent
 {{< tdclose >}}
 {{< tdopen >}}
-({{% resource_link "bffe214a-426a-4f0e-9b6c-e3276d3ac296" "MP4 - 1.2MB" %}})
+([MP4 - 1.2MB](http://www.archive.org/download/MITPE.210S07/ocw-pe.210-shared-octopus-breathing-220k.mp4))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -242,7 +242,7 @@ Shared octopus breathing and ascent
 Tired swimmer assist, first version
 {{< tdclose >}}
 {{< tdopen >}}
-({{% resource_link "9a5125a3-dcef-4324-8a7b-da65bcf87ed0" "MP4 - 4.6MB" %}})
+([MP4 - 4.6MB](http://www.archive.org/download/MITPE.210S07/ocw-pe.210-tired-swimmer-assist-1st-ver-220k.mp4))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -251,7 +251,7 @@ Tired swimmer assist, first version
 Tired swimmer assist, second version
 {{< tdclose >}}
 {{< tdopen >}}
-({{% resource_link "82d79833-c127-46e1-bd53-a3b5d8fd5186" "MP4" %}})
+([MP4](http://www.archive.org/download/MITPE.210S07/ocw-pe.210-tired-swimmer-assist-2rd-ver-220k.mp4))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -260,7 +260,7 @@ Tired swimmer assist, second version
 Tired swimmer assist, third version
 {{< tdclose >}}
 {{< tdopen >}}
-({{% resource_link "c6c6688e-a97d-4a91-93e3-0232916885f2" "MP4" %}})
+([MP4](http://www.archive.org/download/MITPE.210S07/ocw-pe.210-tired-swimmer-assist-3rd-ver-220k.mp4))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -269,7 +269,7 @@ Tired swimmer assist, third version
 Cleaning and disassembling equipment
 {{< tdclose >}}
 {{< tdopen >}}
-({{% resource_link "72320eb9-9834-44e7-a903-bbb89562d41b" "MP4 - 6.1MB" %}})
+([MP4 - 6.1MB](http://www.archive.org/download/MITPE.210S07/ocw-pe.210-cleaning-disassembling-equip-220k.mp4))
 {{< tdclose >}}
 
 {{< trclose >}}

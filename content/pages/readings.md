@@ -23,7 +23,7 @@ National Association of Underwater Instructors. _NAUI Advanced SCUBA Diver_. Tam
 
 Joiner, James T. _NOAA Diving Manual: Diving for Science and Technology_. Flagstaff, AZ: Best Publishing, 2001. ISBN: 9780941332705.
 
-{{% resource_link "bf525555-4423-42dc-82ee-5e25361c2a62" "Dive Training Magazine" %}}
+[Dive Training Magazine](http://www.dtmag.com/)
 
 Readings Schedule
 -----------------
