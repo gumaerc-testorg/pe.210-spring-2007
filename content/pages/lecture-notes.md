@@ -67,7 +67,7 @@ VIDEOS
 
 {{< tdclose >}}
 {{< tdopen >}}
-({{% resource_link "379e8737-9af9-4874-aa7c-2c09a0ad3a5c" "MP4 - 181 MB" %}})
+([MP4 - 181 MB](http://www.archive.org/download/MITPE.210S07/ocw-pe.210-05apr2007-220k.mp4))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -104,7 +104,7 @@ VIDEOS
 
 {{< tdclose >}}
 {{< tdopen >}}
-({{% resource_link "10211ddf-652f-40ff-94cf-2bac796110c6" "MP4 - 236 MB" %}})
+([MP4 - 236 MB](http://www.archive.org/download/MITPE.210S07/ocw-pe.210-12apr2007-220k.mp4))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -140,7 +140,7 @@ VIDEOS
 
 {{< tdclose >}}
 {{< tdopen >}}
-({{% resource_link "cca08497-8753-4159-b779-14730edd98ea" "MP4 - 220 MB" %}})
+([MP4 - 220 MB](http://www.archive.org/download/MITPE.210S07/ocw-pe.210-19apr2007-220k.mp4))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -217,7 +217,7 @@ VIDEOS
 
 {{< tdclose >}}
 {{< tdopen >}}
-({{% resource_link "4b0554c7-94b9-4ba2-933c-5d778b2ff12b" "MP4 - 240 MB" %}})
+([MP4 - 240 MB](http://www.archive.org/download/MITPE.210S07/ocw-pe.210-26apr2007-220k.mp4))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -258,7 +258,7 @@ VIDEOS
 
 {{< tdclose >}}
 {{< tdopen >}}
-({{% resource_link "be92f373-5c3c-4259-a803-d693480423f2" "MP4 - 137 MB" %}})
+([MP4 - 137 MB](http://www.archive.org/download/MITPE.210S07/ocw-pe.210-03may2007-220k.mp4))
 {{< tdclose >}}
 
 {{< trclose >}}
